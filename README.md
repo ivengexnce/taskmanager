@@ -1,4 +1,4 @@
-# Build Log
+#TaskManager
 
 A small task management app styled as a builder's running log — for tracking work across multiple parallel projects instead of one flat to-do list.
 
